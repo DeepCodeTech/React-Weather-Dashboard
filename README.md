@@ -28,6 +28,7 @@ To run this application locally, follow these steps:
    ```bash
    npm start
 5. Open your web browser and go to http://localhost:3000 to view the app.
+6. You can also interact with the app deployed on github pages : https://deepcodetech.github.io/React-Weather-Dashboard.
 
 Usage
  1. Enter the name of the city for which you want to see the weather information in the input field.
