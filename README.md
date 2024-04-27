@@ -14,7 +14,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine using `git clone`.
    ```bash
-   git clone https://github.com/your-username/react-weather-app.git
+   git clone https://github.com/deepcodetech/react-weather-dashboard.git
 2. Navigate to the project directory.
    ```bash
    cd react-weather-app
