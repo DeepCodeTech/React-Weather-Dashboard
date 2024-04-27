@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weather-app-dashboard-react/static/css/main.aa832b84.css",
+    "main.js": "/weather-app-dashboard-react/static/js/main.68afad25.js",
+    "static/js/453.49d97f4f.chunk.js": "/weather-app-dashboard-react/static/js/453.49d97f4f.chunk.js",
+    "static/media/day-img.gif": "/weather-app-dashboard-react/static/media/day-img.8181a86e7cec2fddf8d9.gif",
+    "static/media/night-img.gif": "/weather-app-dashboard-react/static/media/night-img.099275efb7b6f6396be2.gif",
+    "static/media/weather-gif.gif": "/weather-app-dashboard-react/static/media/weather-gif.6695ae42fb6d1efc9ce8.gif",
+    "static/media/weather.png": "/weather-app-dashboard-react/static/media/weather.beca2aa45db1f7c79177.png",
+    "static/media/windy.png": "/weather-app-dashboard-react/static/media/windy.e3f79daf18886c964510.png",
+    "index.html": "/weather-app-dashboard-react/index.html",
+    "main.aa832b84.css.map": "/weather-app-dashboard-react/static/css/main.aa832b84.css.map",
+    "main.68afad25.js.map": "/weather-app-dashboard-react/static/js/main.68afad25.js.map",
+    "453.49d97f4f.chunk.js.map": "/weather-app-dashboard-react/static/js/453.49d97f4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa832b84.css",
+    "static/js/main.68afad25.js"
+  ]
+}
